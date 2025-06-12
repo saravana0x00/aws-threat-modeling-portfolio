@@ -1,0 +1,40 @@
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Sensitive information (if any)
+*.key
+*.pem
+secrets/
+.env
+
+# Build artifacts
+dist/
+build/
+node_modules/
+
+# Documentation build
+_site/
+.sass-cache/
+.jekyll-metadata
+
+# Backup files
+*.bak
+*.backup
