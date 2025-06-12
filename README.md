@@ -1,8 +1,8 @@
 # AWS Threat Modeling Portfolio
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/aws-threat-modeling-portfolio.svg)](https://github.com/YOUR_USERNAME/aws-threat-modeling-portfolio/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/aws-threat-modeling-portfolio.svg)](https://github.com/YOUR_USERNAME/aws-threat-modeling-portfolio/network)
+[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/aws-threat-modeling-portfolio.svg)](https://github.com/saravana0x00/aws-threat-modeling-portfolio/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/aws-threat-modeling-portfolio.svg)](https://github.com/saravana0x00/aws-threat-modeling-portfolio/network)
 
 > Comprehensive threat modeling analysis of AWS services, architectures, and security patterns
 
